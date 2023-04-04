@@ -9,4 +9,7 @@ manu
 beans
 clips
 
+chips
+lays
+
 Thank you :)
